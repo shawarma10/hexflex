@@ -18,7 +18,7 @@ You will only need `Cargo`.
 
 ### Cloning and Building 
 ```bash
-git clone https://github.com/Moritisimor/hexflex
+git clone https://github.com/shawarma10/hexflex
 cd hexflex
 cargo build -r
 ```
