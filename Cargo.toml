@@ -1,7 +1,16 @@
 [package]
 name = "hexflex"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+rust-version = "1.85"
+description = "A CLI hex editor for dumping, inspecting and manipulating bytes"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/shawarma10/hexflex"
+homepage = "https://github.com/shawarma10/hexflex"
+keywords = ["hex", "editor", "hexdump", "binary", "cli"]
+categories = ["command-line-utilities", "development-tools"]
+exclude = ["target/", ".github/"]
 
 [profile.release]
 opt-level = "z"
