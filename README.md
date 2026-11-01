@@ -25,6 +25,11 @@ cargo build -r
 
 The compiled binary can be found here: `target/release/hexflex`.
 
+### Installing with crates
+```bash
+cargo install hexflex
+```
+
 ## How do I use it?
 There are 3 main modes:
 - Dumping to a file
